@@ -1,5 +1,4 @@
 import { Outlet, Link } from "react-router-dom";
-import "../styles.css"; 
 import React from "react";
 import {Menu as MenuIcon} from '@mui/icons-material';
 import { IconButton } from "@mui/material";
